@@ -10,7 +10,7 @@ This repository contains the source code for the **emmtr channel** indicator for
 
 ## Description
 
-The **emmtr channel** indicator is a volatility channel indicator; In some cases upper line and lower line can be used as Stop Losses for Short or Long positions. It uses ema, atr and lows.
+The **emmtr channel** indicator is a volatility channel indicator; In some cases upper line and lower line can be used as Stop Losses for Short or Long positions. It uses ema and atr. Upper line is equal to ema plus atr value and lower line is equal to ema minus atr value.
 
 ## How to Use
 
