@@ -1,10 +1,8 @@
 ![emmtr-channel](https://user-images.githubusercontent.com/118737409/234052007-1c1070ba-299b-4ec8-a9b3-17513c5addf8.png)
 
 <br/>
-<img src="https://badgen.net/badge/platform/mt5/orange"/>
-<img src="https://badgen.net/badge/category/indicator/blue"/>
-<img src="https://badgen.net/badge/name/emmtr-channel/red"/>
-<img src="https://badgen.net/badge/language/MQL5/black"/>
+
+<img src="https://badgen.net/badge/platform/mt5/orange"/> <img src="https://badgen.net/badge/category/indicator/blue"/> <img src="https://badgen.net/badge/name/emmtr-channel/red"/> <img src="https://badgen.net/badge/language/MQL5/black"/>
 
 # emmtr channel
 
